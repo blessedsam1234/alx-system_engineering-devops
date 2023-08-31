@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00 Shell Basics 
+this is the repository of this project
